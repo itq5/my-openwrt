@@ -22,7 +22,18 @@
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
 #上网时间控制Plus
 git clone https://github.com/kingyond/luci-app-accesscontrol-plus package/luci-app-accesscontrol-plus
-用于解锁网易云灰色歌曲的OpenWRT/LEDE路由器插件
-https://github.com/maxlicheng/luci-app-unblockmusic.git
-一个简单的磁盘管理 LuCI 插件
-https://github.com/lisaac/luci-app-diskman.git
+#用于解锁网易云灰色歌曲的OpenWRT/LEDE路由器插件
+git clone https://github.com/maxlicheng/luci-app-unblockmusic.git  package/luci-app-unblockmusic
+#一个简单的磁盘管理 LuCI 插件
+git clone https://github.com/lisaac/luci-app-diskman.git package/luci-app-diskman
+#一个简单的SakuraFrp openwrt客户端luci界面
+git clone https://github.com/gaobin89/luci-app-natfrpc.git package/luci-app-natfrpc
+#阿里云盘 WebDAV 服务
+git clone https://github.com/messense/aliyundrive-webdav.git package/aliyundrive-webdav
+#HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。
+git clone https://github.com/jerrykuku/luci-app-vssr.git package/aliyundrive-webdav
+#luci-app-passwall
+git clone https://github.com/siseboy/luci-app-passwall.git package/luci-app-passwall
+#基于kmod-batman-adv+802.11s 有线+无线回程的mesh luci设置插件。
+git clone https://github.com/ntlf9t/luci-app-easymesh.git package/luci-app-easymesh
+
