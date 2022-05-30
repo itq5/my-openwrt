@@ -31,7 +31,7 @@ git clone https://github.com/gaobin89/luci-app-natfrpc.git package/luci-app-natf
 #阿里云盘 WebDAV 服务
 git clone https://github.com/messense/aliyundrive-webdav.git package/aliyundrive-webdav
 #HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。
-git clone https://github.com/jerrykuku/luci-app-vssr.git package/aliyundrive-webdav
+git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 #luci-app-passwall
 git clone https://github.com/siseboy/luci-app-passwall.git package/luci-app-passwall
 #基于kmod-batman-adv+802.11s 有线+无线回程的mesh luci设置插件。
